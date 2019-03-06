@@ -1,0 +1,14 @@
+C:\Users\Amit Silverman\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\Amit Silverman\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\Amit Silverman\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\Amit Silverman\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\Keyboard.csprojAssemblyReference.cache
+C:\Users\Amit Silverman\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Amit Silverman\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\Amit Silverman\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+C:\Users\Amit Silverman\source\repos\Keyboard\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\Amit Silverman\source\repos\Keyboard\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\Amit Silverman\source\repos\Keyboard\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\Amit Silverman\source\repos\Keyboard\ConsoleApp17\obj\Debug\Keyboard.csprojAssemblyReference.cache
+C:\Users\Amit Silverman\source\repos\Keyboard\ConsoleApp17\obj\Debug\Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Amit Silverman\source\repos\Keyboard\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\Amit Silverman\source\repos\Keyboard\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
